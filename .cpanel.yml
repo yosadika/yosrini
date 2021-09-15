@@ -1,0 +1,6 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/ewiring/public_html/yosrini
+
+    - /usr/bin/rsync -Paz * $DEPLOYPATH --delete
