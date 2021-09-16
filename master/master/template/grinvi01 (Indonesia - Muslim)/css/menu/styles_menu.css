@@ -1,11 +1,18 @@
-
-
-@-webkit-viewport { width: device-width; }
-@-moz-viewport { width: device-width; }
-@-ms-viewport { width: device-width; }
-@-o-viewport { width: device-width; }
-@viewport { width: device-width; }
-
+@-webkit-viewport {
+  width: device-width;
+}
+@-moz-viewport {
+  width: device-width;
+}
+@-ms-viewport {
+  width: device-width;
+}
+@-o-viewport {
+  width: device-width;
+}
+@viewport {
+  width: device-width;
+}
 
 /* ------------------------------------------
   RESPONSIVE NAV STYLES
@@ -42,7 +49,7 @@
 }
 
 .nav-toggle {
-  -webkit-tap-highlight-color: rgba(0,0,0,0);
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
   -webkit-touch-callout: none;
   -webkit-user-select: none;
   -moz-user-select: none;
@@ -66,27 +73,24 @@
 }
 */
 
-
-
 /* ------------------------------------------
   FIXED HEADER
 --------------------------------------------- */
 
 .menu {
   background: #fff;
-  opacity:0.7;
+  opacity: 0.7;
   position: fixed;
   z-index: 3;
   width: 100%;
 }
 
-.menu .menu_content 
-{
+.menu .menu_content {
   width: 85%;
 }
 
 .logo_menu {
-  -webkit-tap-highlight-color: rgba(0,0,0,0);
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
   text-decoration: none;
   font-weight: bold;
   line-height: 55px;
@@ -94,7 +98,6 @@
   color: #8d8c76;
   float: left;
 }
-
 
 /* ------------------------------------------
   MASK
@@ -104,7 +107,7 @@
   -webkit-transition: opacity 300ms;
   -moz-transition: opacity 300ms;
   transition: opacity 300ms;
-  background: rgba(0,0,0, .5);
+  background: rgba(0, 0, 0, 0.5);
   visibility: hidden;
   position: fixed;
   opacity: 0;
@@ -131,7 +134,6 @@
     opacity: 0 !important;
   }
 }
-
 
 /* ------------------------------------------
   NAVIGATION STYLES
@@ -177,7 +179,7 @@
 }
 
 .nav-collapse a {
-  -webkit-tap-highlight-color: rgba(0,0,0,0);
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
   text-decoration: none;
   padding: 0.7em 1em;
   color: #8d8c76;
@@ -187,7 +189,6 @@
 
 .nav-collapse a:active,
 .nav-collapse .active a {
-   
 }
 
 @media screen and (min-width: 40em) {
@@ -212,15 +213,14 @@
   }
 }
 
-
 /* ------------------------------------------
   NAV TOGGLE STYLES
 --------------------------------------------- */
 
 @font-face {
   font-family: "responsivenav";
-  src:url("../icons/responsivenav.eot");
-  src:url("../icons/responsivenav.eot?#iefix") format("embedded-opentype"),
+  src: url("../icons/responsivenav.eot");
+  src: url("../icons/responsivenav.eot?#iefix") format("embedded-opentype"),
     url("../icons/responsivenav.ttf") format("truetype"),
     url("../icons/responsivenav.woff") format("woff"),
     url("../icons/responsivenav.svg#responsivenav") format("svg");
@@ -238,7 +238,7 @@
   width: 60px;
   height: 55px;
   float: right;
-  color:red;
+  color: red;
 }
 
 .nav-toggle:before {
@@ -253,9 +253,5 @@
   width: 100%;
   left: 0;
   top: 0;
-  color:red;
+  color: red;
 }
-
-
-
-
