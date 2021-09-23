@@ -440,6 +440,8 @@
                       bottom: 0;
                       background-color: rgba(0,0,0,0.6); /* Black background with opacity */;
                     }
+
+				
 			</style>
 			
 			<style>
@@ -1142,7 +1144,7 @@
 					
 					
 					<div style='clear:both;display:block;'></div>
-					<div class='happy_couple' style='margin-top:-50px;'>
+					<div class='happy_couple' style='margin-top:0px;'>
 					
     				    <span style='font-family: Cormorant Infant, serif; font-size:20px; color:#474848;'>RESEPSI & PESTA ADAT BATAK</span>
     				    <span style='margin-top:10px;'>
@@ -1383,7 +1385,7 @@
 							
 							<div class='animated fadeInUp' data-id='2' style='margin-top:-50px;'>
 							<div id='fh5co-started'>
-								<form class='form-inline' method='post' action='act-wishes'>
+								<form class='form-inline' method='post' action='simpan.php'>
 									<input type='hidden' name='id_event' value='2228'>
 									<div class='form-group' style='display:block; width:100%;'>
 									
@@ -1398,10 +1400,10 @@
         										<div style='clear:both;margin-bottom:5px;'></div>
         										<div style='display:block; color:#d3bdae;padding-left:10px; margin-top:10px;'>Are You Attending ?</div>
         										<div class='form-group' style='display:block; width:100%;'>
-        											<select name='attending' class='form-input' id='attending' required="" style='width:100%; color:#d3bdae;' onchange='get_data3(this.value);'>
+        											<select name='hadir' class='form-input' id='attending' required="" style='width:100%; color:#d3bdae;' onchange='get_data3(this.value);'>
         												<option value='' style='color:#d3bdae;'></option>
-        												<option value='Attending' style='color:#d3bdae;'>Attending</option>
-        												<option value='Not Attending' style='color:#d3bdae;'>Not Attending</option>
+        												<option value='1' style='color:#d3bdae;'>Attending</option>
+        												<option value='0' style='color:#d3bdae;'>Not Attending</option>
         											</select>
         										</div>
         										<div>
@@ -1409,7 +1411,7 @@
         										<div style='clear:both;margin-bottom:5px;'></div>
         										<div style='display:block; color:#d3bdae;padding-left:10px; margin-top:10px;'>No. of Guest(s) Attending</div>
         										<div class='form-group' style='display:block; width:100%;'>
-        											<select name='person' class='form-input' required="" style='width:100%; color:#d3bdae;' id='hasil_data3'>
+        											<select name='tamu' class='form-input' required="" style='width:100%; color:#d3bdae;' id='hasil_data3'>
         												<option value=''></option>
         												<option value='1'>1</option><option value='2'>2</option><option value='3'>3</option><option value='4'>4</option><option value='5'>5</option><option value='6'>6</option>
         											</select>
@@ -1418,7 +1420,7 @@
 								        <div style='clear:both;margin-bottom:5px;'></div>
     									<div style='display:block; color:#d3bdae;padding-left:10px; margin-top:10px;'>Best Wishes</div>
     									<div class='form-group' style='display:block; width:100%;'>
-    										<textarea class='form-input' id='wishes' rows='10' name='isi_ucapan' required="" style='width:100%; color:#d3bdae;'></textarea>
+    										<textarea class='form-input' id='wishes' rows='10' name='ucapan' required="" style='width:100%; color:#d3bdae;'></textarea>
     									</div>
 								        
 									
@@ -1451,8 +1453,8 @@
     							</div>
     						</div>
 							
-							<div class='animated growIn slower' data-id='2' style='margin-top:20px;textx-align:center;'>
-							    <div style='color:#484949; disply:block; font-family: Montserrat, sans-serif; font-size:12px; letter-spacing:1px;'>
+							<div class='animated growIn slower' data-id='2' style='margin-top:20px;text-align:center;'>
+							    <div style='color:#484949; display:block; font-family: Montserrat, sans-serif; font-size:12px; letter-spacing:1px;'>
 							        It is our honor if you would like to send us a wedding gift
 							    </div>
 							    
@@ -1510,70 +1512,49 @@
     							</div>
     						<div class='happy_couple' style='margin-top:-50px;'>
     							<p class='animated growIn slower' data-id='1' style='font-family: Montserrat, sans-serif; font-size:14px; letter-spacing:1px;color:#ffffff;'>
-    							    <div class='swiper-container'>
-        								<div class='swiper-wrapper'>
-        									
-        										<div class='swiper-slide'>
-        											<div style='width:80%; font-size:14px; text-align:center; margin-left:10%;margin-right:10%'>
-        												<h3 style='text-transform:capitalize;font-family: Montserrat, sans-serif;color:#ffffff;'>
-        													Amaliya Erwin
-        													<span style='display:block; font-family: Open Sans, Arial, sans-serif; font-size:12px; margin-top:5px; text-transform:lowercase;'>
-        													
-        													</span>
-        												</h3>
-        												<p style='margin-top:-30px;font-size:14px;font-family: Montserrat, sans-serif;color:#ffffff;'>
-        												test
-        												</p>
-        											</div>
-        										</div>		
-        										
-        										<div class='swiper-slide'>
-        											<div style='width:80%; font-size:14px; text-align:center; margin-left:10%;margin-right:10%'>
-        												<h3 style='text-transform:capitalize;font-family: Montserrat, sans-serif;color:#ffffff;'>
-        													nadia
-        													<span style='display:block; font-family: Open Sans, Arial, sans-serif; font-size:12px; margin-top:5px; text-transform:lowercase;'>
-        													
-        													</span>
-        												</h3>
-        												<p style='margin-top:-30px;font-size:14px;font-family: Montserrat, sans-serif;color:#ffffff;'>
-        												happy wedding&lt;3
-        												</p>
-        											</div>
-        										</div>		
-        										
-        										<div class='swiper-slide'>
-        											<div style='width:80%; font-size:14px; text-align:center; margin-left:10%;margin-right:10%'>
-        												<h3 style='text-transform:capitalize;font-family: Montserrat, sans-serif;color:#ffffff;'>
-        													Test
-        													<span style='display:block; font-family: Open Sans, Arial, sans-serif; font-size:12px; margin-top:5px; text-transform:lowercase;'>
-        													
-        													</span>
-        												</h3>
-        												<p style='margin-top:-30px;font-size:14px;font-family: Montserrat, sans-serif;color:#ffffff;'>
-        												Happy for u
-        												</p>
-        											</div>
-        										</div>		
-        										
-        										<div class='swiper-slide'>
-        											<div style='width:80%; font-size:14px; text-align:center; margin-left:10%;margin-right:10%'>
-        												<h3 style='text-transform:capitalize;font-family: Montserrat, sans-serif;color:#ffffff;'>
-        													Pitrah
-        													<span style='display:block; font-family: Open Sans, Arial, sans-serif; font-size:12px; margin-top:5px; text-transform:lowercase;'>
-        													
-        													</span>
-        												</h3>
-        												<p style='margin-top:-30px;font-size:14px;font-family: Montserrat, sans-serif;color:#ffffff;'>
-        												selamat
-        												</p>
-        											</div>
-        										</div>		
-        										
-        								</div>
-        								<!-- Add Arrows -->
-        								<div class='swiper-button-next'></div>
-        								<div class='swiper-button-prev'></div>
-        							</div>
+    							    <div class="pre-scrollable">
+
+                                                
+										
+			
+										<div class='story_content' style='color:#ffffff; margin-top:10px;font-family: Cormorant Infant, serif; font-style:italic; font-size: 16px;'>
+											❝Semoga rencana yang telah ditetapkan berjalan lancar ya Emy...
+											Bahagia selalu..
+											Sekali lagi selamat ya..
+											Trimakasih buat undagan yang diberikan kesaya.
+											Tuhan memberkati❞ - 
+											<b style='font-size:16px;font-family: Montserrat, sans-serif;color:#474848; letter-spacing:1px;color:#ffffff;'>
+												Tetty sitinjak                            </b>
+										</div>
+
+										<div class='story_content' style='color:#ffffff; margin-top:10px;font-family: Cormorant Infant, serif; font-style:italic; font-size: 16px;'>
+											❝Semoga rencana yang telah ditetapkan berjalan lancar ya Emy...
+											Bahagia selalu..
+											Sekali lagi selamat ya..
+											Trimakasih buat undagan yang diberikan kesaya.
+											Tuhan memberkati❞ - 
+											<b style='font-size:16px;font-family: Montserrat, sans-serif;color:#474848; letter-spacing:1px;color:#ffffff;'>
+												Tetty sitinjak                            </b>
+										</div>
+
+										<div class='story_content' style='color:#474848; margin-top:10px;font-family: Cormorant Infant, serif; font-style:italic; font-size: 16px;'>
+											❝Semoga rencana yang telah ditetapkan berjalan lancar ya Emy...
+											Bahagia selalu..
+											Sekali lagi selamat ya..
+											Trimakasih buat undagan yang diberikan kesaya.
+											Tuhan memberkati❞ - 
+											<b style='font-size:16px;font-family: Montserrat, sans-serif;color:#474848; letter-spacing:1px;color:#ffffff;'>
+												Tetty sitinjak                            </b>
+										</div>
+			
+			
+															
+										
+			
+			
+															
+			
+								</div>
     							 
     							
     						</div>
