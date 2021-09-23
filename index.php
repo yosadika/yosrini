@@ -1413,7 +1413,13 @@
         										<div class='form-group' style='display:block; width:100%;'>
         											<select name='tamu' class='form-input' required="" style='width:100%; color:#d3bdae;' id='hasil_data3'>
         												<option value=''></option>
-        												<option value='1'>1</option><option value='2'>2</option><option value='3'>3</option><option value='4'>4</option><option value='5'>5</option><option value='6'>6</option>
+        												<option value='0'>0</option>
+														<option value='1'>1</option>
+														<option value='2'>2</option>
+														<option value='3'>3</option>
+														<option value='4'>4</option>
+														<option value='5'>5</option>
+														<option value='6'>6</option>
         											</select>
         										</div>
         										
@@ -1508,51 +1514,28 @@
     						<div class='happy_couple'>
     								
     								
-        								<p class='animated growIn slower' id='font_digital_2' data-id='1' style='font-family: Cormorant Infant, serif; font-size:34px;color:#ffffff;'>Best Wishes</p>
+        								<p class='animated growIn slower' id='font_digital_2' data-id='1' style='font-family: Cormorant Infant, serif; font-size:34px;color:#474848;'>Best Wishes♥</p>
     							</div>
     						<div class='happy_couple' style='margin-top:-50px;'>
     							<p class='animated growIn slower' data-id='1' style='font-family: Montserrat, sans-serif; font-size:14px; letter-spacing:1px;color:#ffffff;'>
     							    <div class="pre-scrollable">
 
-                                                
-										
-			
-										<div class='story_content' style='color:#ffffff; margin-top:10px;font-family: Cormorant Infant, serif; font-style:italic; font-size: 16px;'>
-											❝Semoga rencana yang telah ditetapkan berjalan lancar ya Emy...
-											Bahagia selalu..
-											Sekali lagi selamat ya..
-											Trimakasih buat undagan yang diberikan kesaya.
-											Tuhan memberkati❞ - 
-											<b style='font-size:16px;font-family: Montserrat, sans-serif;color:#474848; letter-spacing:1px;color:#ffffff;'>
-												Tetty sitinjak                            </b>
-										</div>
 
-										<div class='story_content' style='color:#ffffff; margin-top:10px;font-family: Cormorant Infant, serif; font-style:italic; font-size: 16px;'>
-											❝Semoga rencana yang telah ditetapkan berjalan lancar ya Emy...
-											Bahagia selalu..
-											Sekali lagi selamat ya..
-											Trimakasih buat undagan yang diberikan kesaya.
-											Tuhan memberkati❞ - 
-											<b style='font-size:16px;font-family: Montserrat, sans-serif;color:#474848; letter-spacing:1px;color:#ffffff;'>
-												Tetty sitinjak                            </b>
-										</div>
-
-										<div class='story_content' style='color:#474848; margin-top:10px;font-family: Cormorant Infant, serif; font-style:italic; font-size: 16px;'>
-											❝Semoga rencana yang telah ditetapkan berjalan lancar ya Emy...
-											Bahagia selalu..
-											Sekali lagi selamat ya..
-											Trimakasih buat undagan yang diberikan kesaya.
-											Tuhan memberkati❞ - 
-											<b style='font-size:16px;font-family: Montserrat, sans-serif;color:#474848; letter-spacing:1px;color:#ffffff;'>
-												Tetty sitinjak                            </b>
-										</div>
-			
-			
-															
-										
-			
-			
-															
+										<?php 
+										include 'koneksi.php';
+										$reservasi = mysqli_query($koneksi, "SELECT * from reservasi ORDER BY id_tamu DESC");
+										$no=1;
+										foreach ($reservasi as $rsv){											
+										echo "<div class='story_content' style='color:#ffffff; margin-top:10px;font-family: Cormorant Infant, serif;text-align:center;padding:10px;'>
+											<i style='font-size: 16px;'>
+											❝".$rsv['ucapan']."❞
+											</i>
+											<p style='font-size:16px;font-family: Montserrat, sans-serif;color:#474848; letter-spacing:1px;margin-top:-10px;'>
+											- ".$rsv['nama']."                            </p>
+										</div>";
+										$no++;
+										}
+										?>		
 			
 								</div>
     							 
@@ -1570,8 +1553,8 @@
 				<div class='main-footer' style='background-color:#ffffff;'>
 					<div class='container' style='width:80%;color:#d3bdae;'>
 						<div class='row' style='font-family: Montserrat, sans-serif;font-size:12px;'>
-						    <img src='logo-grinvi-transparent.png' style='background-color:#d3bdae;width:80px;display:block;margin-bottom:10px;margin-top:10px;'>
-						    &copy; 2021 invitation by grinvitation.com
+						    
+						    &copy; 2021 Rini&Yos Wedding Invitation
 						    <br><br>
 							<div class='clear'></div>
 						</div>
