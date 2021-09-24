@@ -1532,7 +1532,7 @@
                     							    </div>   
                         			            
 							</div>
-							<div class='clear'><br><br></div>
+							<div class='clear'></div>
 						</div>
 					</div>
 					
