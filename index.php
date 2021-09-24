@@ -7,7 +7,7 @@
 			<meta name='viewport' content='width=device-width,initial-scale=1'>
 			
 			
-			<link rel='icon' type='image/png' href='master/master/template/yosrini/images/logo.png'>
+			<link rel='icon' type='image/png' href='master/master/template/yosrini/images/logo2.png'>
 			
 		<meta property='og:image' content='http://localhost/00.asset/images/yosrini_foto/yr1_1.jpg'> 
 		  <meta property='og:title' content='The Wedding Of Rini &amp; Yos'>
@@ -1201,10 +1201,10 @@
 											</div>
 											<div class='animated growIn slower' data-id='2'>
 												<div class='cd-timeline__content js-cd-content'>
-													<div class='story_title' style='color:#474848;font-family: Cormorant Infant, serif; font-style:italic;'>2017</div>
+													<div class='story_title' style='color:#474848;font-family: Cormorant Infant, serif; font-style:italic;'>29 Agustus 2020</div>
 													
 													<div class='story_content' style='color:#474848; margin-top:10px;font-family: Cormorant Infant, serif; font-style:italic; font-size: 18px;'>
-													Tahun 2017, tepatnya bulan maret adalah pertama kali kami saling bertemu di salah satu kampus dan saling mengenal satu sama lain.
+													Tak sengaja bertemu disebuah warung kopi dan diperkenalkan oleh seorang teman, membuat kami saling mengenal satu sama lain.
 													</div>
 													
 													
@@ -1223,10 +1223,10 @@
 											</div>
 											<div class='animated growIn slower' data-id='2'>
 												<div class='cd-timeline__content js-cd-content'>
-													<div class='story_title' style='color:#474848;font-family: Cormorant Infant, serif; font-style:italic;'>9 Juli 2017</div>
+													<div class='story_title' style='color:#474848;font-family: Cormorant Infant, serif; font-style:italic;'>19 September 2020</div>
 													
 													<div class='story_content' style='color:#474848; margin-top:10px;font-family: Cormorant Infant, serif; font-style:italic; font-size: 18px;'>
-													Perkenalanpun berjalan beberapa bulan yang akhirnya menjadikan kami semakin dekat. Tepat di tanggal 9 Juli 2017, kami berdua memutuskan untuk menjadikan tanggal tersebut  menjadi tanggal yang istimewa buat kami , dan memulai hal-hal baru bersama.
+													Pertama kalinya jalan berdua, saling menceritakan kehidupan masing-masing dan membuat kami lebih mengenal satu sama lain.
 													</div>
 													
 													
@@ -1245,10 +1245,10 @@
 											</div>
 											<div class='animated growIn slower' data-id='2'>
 												<div class='cd-timeline__content js-cd-content'>
-													<div class='story_title' style='color:#474848;font-family: Cormorant Infant, serif; font-style:italic;'>2018</div>
+													<div class='story_title' style='color:#474848;font-family: Cormorant Infant, serif; font-style:italic;'>03 Oktober 2020</div>
 													
 													<div class='story_content' style='color:#474848; margin-top:10px;font-family: Cormorant Infant, serif; font-style:italic; font-size: 18px;'>
-													Tahun berganti dari tahun 2017 ke 2018. seiring waktu berjalan kami semakin yakin dan merasa cocok antara satu dan lainnya. dan di pertengahan tahun 2018 kami sepakat untuk hubungan lebih serius.
+													Semakin mengenal satu sama lain dan membuat kami semakin dekat. Tepat ditanggal 03 Oktober 2021 kami memutuskan untuk menjadikan tanggal tersebut menjadi tanggal istimewa buat kami, dan memulai hari-hari baru bersama.
 													</div>
 													
 													
@@ -1267,10 +1267,32 @@
 											</div>
 											<div class='animated growIn slower' data-id='2'>
 												<div class='cd-timeline__content js-cd-content'>
-													<div class='story_title' style='color:#474848;font-family: Cormorant Infant, serif; font-style:italic;'>15 Agustus 2021</div>
+													<div class='story_title' style='color:#474848;font-family: Cormorant Infant, serif; font-style:italic;'>23 Februari 2021</div>
 													
 													<div class='story_content' style='color:#474848; margin-top:10px;font-family: Cormorant Infant, serif; font-style:italic; font-size: 18px;'>
-													Hari ini, kami berjanji satu sama lain untuk menjadi sepasang suami dan istri yang saling menjaga, membina dengan cinta dan kasih sayang dalam ikatan pernikahan.
+													Setelah beberapa bulan bersama, kami semakin yakin satu sama lain dan sepakat untuk menjalin hubungan yang lebih serius.
+													</div>
+													
+													
+													<span class='cd-timeline__date'> </span>
+												</div> <!-- cd-timeline__content -->
+											</div>
+										</div>
+									</div> <!-- cd-timeline__block -->
+
+									<div class='cd-timeline__block js-cd-block'>
+										<div class='animatedParent' data-sequence='500'>
+											<div class='animated fadeInUp' data-id='1'>
+												<div class='cd-timeline__img js-cd-img'>
+													<img src='master/master/template/yosrini/images/cycle-love3.png' alt='Picture' width='100px' style='background-color:#474848; border-radius:50%;'>
+												</div> <!-- cd-timeline__img -->
+											</div>
+											<div class='animated growIn slower' data-id='2'>
+												<div class='cd-timeline__content js-cd-content'>
+													<div class='story_title' style='color:#474848;font-family: Cormorant Infant, serif; font-style:italic;'>12 November 2021 </div>
+													
+													<div class='story_content' style='color:#474848; margin-top:10px;font-family: Cormorant Infant, serif; font-style:italic; font-size: 18px;'>
+													Hari ini, kami berjanji didepan Altar yang suci untuk saling menjaga dengan segala kerendahan hati dan kelembutan, dengan kesabaran, saling menopang dalam kasih, bersemangat untuk memelihara kesatuan dalam ikatan pernikahan.
 													</div>
 													
 													
@@ -1460,7 +1482,7 @@
     						</div>
 							
 							<div class='animated growIn slower' data-id='2' style='margin-top:20px;text-align:center;'>
-							    <div style='color:#484949; display:block; font-family: Montserrat, sans-serif; font-size:12px; letter-spacing:1px;'>
+							    <div style='color:#484949; display:block; font-family: Montserrat, sans-serif; font-size:12px; letter-spacing:1px;margin-bottom:35px;'>
 							        It is our honor if you would like to send us a wedding gift
 							    </div>
 							    
@@ -1493,10 +1515,20 @@
     				                            }
             							    </style>
                         			        
-                        			                <div class='caseless' style='text-align:center;'>
-                    							        <img src='gift_corner/gift_109_20210721113729.jpeg' style='width:70%;display:block;'>
-                    							        <span style='font-size:18px;font-family: Montserrat, sans-serif;letter-spacing:2px;color:#212121;'>BCA </span>
-                    							        <span style='font-size:14px;font-family: Montserrat, sans-serif;letter-spacing:2px;color:#212121;margin-top:-20px;text-transform:uppercase;'></span>
+                        			                <div data-toggle='modal' data-target='#exampleModal-gift1' class='caseless' style='text-align:center;'>
+                    							        <img src='gift_corner/mandiri.png' style='width:70%;display:block;padding:15px;'>
+                    							    </div>
+													<div data-toggle='modal' data-target='#exampleModal-gift2' class='caseless' style='text-align:center;'>
+                    							        <img src='gift_corner/bni.png' style='width:70%;display:block;padding:15px;'>
+                    							    </div>
+													<div data-toggle='modal' data-target='#exampleModal-gift3' class='caseless' style='text-align:center;'>
+                    							        <img src='gift_corner/gopay.png' style='width:70%;display:block;padding:15px;'>
+                    							    </div>
+													<div data-toggle='modal' data-target='#exampleModal-gift4' class='caseless' style='text-align:center;'>
+                    							        <img src='gift_corner/dana.png' style='width:70%;display:block;padding:15px;'>
+                    							    </div>
+													<div data-toggle='modal' data-target='#exampleModal-gift5' class='caseless' style='text-align:center;'>
+                    							        <img src='gift_corner/ovo.png' style='width:70%;display:block;padding:15px;'>
                     							    </div>   
                         			            
 							</div>
@@ -1822,6 +1854,218 @@
 					  <p id='font_digital_2' style='font-size:24px;text-align:center;font-weight:bold;margin-top:10px;'>Save The Date</p>
 					  <p style='font-family: Montserrat, sans-serif; font-size:12px; letter-spacing:1px;text-align:center;'>
 						  Tap one of the buttons below to save the date on your device
+						  <a href='00.asset/calendar/riniyos.ics' target='blank' style='display:block;margin-top:10px;'>
+							  <button style='font-size:12px; letter-spacing:4px; font-family: Montserrat, sans-serif;background-color:#d3bdae; width:100%; color:#ffffff; padding-top:10px;padding-bottom:10px;border-radius:25px;border:0px;'>Apple Calendar</button>
+						  </a>
+						  <a href='00.asset/calendar/riniyos_android.ics' target='blank' style='display:block;margin-top:10px;'>
+							<button style='font-size:12px; letter-spacing:4px; font-family: Montserrat, sans-serif;background-color:#d3bdae; width:100%; color:#ffffff; padding-top:10px;padding-bottom:10px;border-radius:25px;border:0px;'>Android Calendar <p>(Download → Open)</p></button>
+						</a>
+						  <a href='https://www.google.com/calendar/render?action=TEMPLATE&text=Yos+%26+Rini+Wedding+Day%F0%9F%A4%B5%F0%9F%A4%8D%F0%9F%91%B0&details=Hai%21+Semoga+kamu+bisa+hadir+ya%F0%9F%98%81%0AStay+Healthy%F0%9F%98%87&location=HKBP+Sei+Agul%2C+Jl.+Gereja+No.42%2C+Sei+Agul%2C+Kec.+Medan+Bar.%2C+Kota+Medan%2C+Sumatera+Utara+20117%2C+Indonesia&dates=20211112T030000Z%2F20211112T090000Z' target='blank' style='display:block;margin-top:10px;margin-bottom:20px;'>
+							  <button style='font-size:12px; letter-spacing:4px; font-family: Montserrat, sans-serif;background-color:#d3bdae; width:100%; color:#ffffff; padding-top:10px;padding-bottom:10px;border-radius:25px;border:0px;'>Google Calendar</button>
+						  </a>
+					  </p>
+					  
+				  </div>
+				  <div style='clear:both;display:block;'>
+				  <br>
+				  </div>
+				</div>
+			  </div>
+			</div>
+
+			<div class='modal fade bd-example-modal-lg' id='exampleModal-gift1' tabindex='-1' role='dialog' aria-labelledby='exampleModalLabel' aria-hidden='true' style='margin-top:5%;'>
+			<div class='modal-dialog' role='document'>
+			  <div class='modal-content'>
+				<div class='modal-body'>
+					<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+						<span aria-hidden="true">&times;</span>
+					  </button>
+					  <p id='font_digital_2' style='font-size:24px;text-align:center;font-weight:bold;margin-top:10px;'>Gift for Bride</p>
+					  <p style='font-family: Montserrat, sans-serif; font-size:12px; letter-spacing:1px;text-align:center;margin-bottom:20px;'>
+					  Thanks for your special gift
+					  </p>
+					  <div class='caseless' style='text-align:center;'>
+                    		<img src='gift_corner/mandiri.png' style='width:70%;display:block;padding:15px;'>
+                    	</div>
+					  <p style='font-family: Cormorant Infant, serif; font-size:22px; color:#474848;text-align:center;'>BANK MANDIRI</p>
+					  <p style='font-family: Cormorant Infant, serif; font-size:22px; color:#474848;text-align:center;margin-top:-15px;'>an. Yos Adika Marbun</p>
+					  <p style='font-family: Cormorant Infant, serif; font-size:22px; color:#474848;text-align:center;margin-top:-15px;'>No. Rek 1050012477679</p>
+					  <input type="text" value="1050012477679" id="myInput1" hidden>
+					  <button onclick="copyToCliBoard1()" style='font-size:12px; letter-spacing:4px; font-family: Montserrat, sans-serif;background-color:#d3bdae; width:100%; color:#ffffff; padding-top:10px;padding-bottom:10px;border-radius:25px;border:0px;'>Salin Nomor Rekening</button>
+					  <script>
+						function copyToCliBoard1() {
+						var copyText = document.getElementById("myInput1");
+						copyText.select();
+						copyText.setSelectionRange(0, 99999); /* For mobile devices */
+						document.execCommand("copy");
+						alert("Berhasil disalin: " + copyText.value);
+						}
+						</script>
+					  
+				  </div>
+				  <div style='clear:both;display:block;'>
+				  <br>
+				  </div>
+				</div>
+			  </div>
+			</div>
+
+			<div class='modal fade bd-example-modal-lg' id='exampleModal-gift2' tabindex='-1' role='dialog' aria-labelledby='exampleModalLabel' aria-hidden='true' style='margin-top:5%;'>
+			<div class='modal-dialog' role='document'>
+			  <div class='modal-content'>
+				<div class='modal-body'>
+					<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+						<span aria-hidden="true">&times;</span>
+					  </button>
+					  <p id='font_digital_2' style='font-size:24px;text-align:center;font-weight:bold;margin-top:10px;'>Gift for Bride</p>
+					  <p style='font-family: Montserrat, sans-serif; font-size:12px; letter-spacing:1px;text-align:center;margin-bottom:20px;'>
+					  Thanks for your special gift
+					  </p>
+					  <div class='caseless' style='text-align:center;'>
+                    		<img src='gift_corner/bni.png' style='width:70%;display:block;padding:15px;'>
+                    	</div>
+					  <p style='font-family: Cormorant Infant, serif; font-size:22px; color:#474848;text-align:center;'>BANK BNI</p>
+					  <p style='font-family: Cormorant Infant, serif; font-size:22px; color:#474848;text-align:center;margin-top:-15px;'>an. Rini Natalia Sitanggang</p>
+					  <p style='font-family: Cormorant Infant, serif; font-size:22px; color:#474848;text-align:center;margin-top:-15px;'>No. Rek 979343922</p>
+					  <input type="text" value="979343922" id="myInput2" hidden>
+					  <button onclick="copyToCliBoard2()" style='font-size:12px; letter-spacing:4px; font-family: Montserrat, sans-serif;background-color:#d3bdae; width:100%; color:#ffffff; padding-top:10px;padding-bottom:10px;border-radius:25px;border:0px;'>Salin Nomor Rekening</button>
+					  <script>
+						function copyToCliBoard2() {
+						var copyText = document.getElementById("myInput2");
+						copyText.select();
+						copyText.setSelectionRange(0, 99999); /* For mobile devices */
+						document.execCommand("copy");
+						alert("Berhasil disalin: " + copyText.value);
+						}
+						</script>
+					  
+				  </div>
+				  <div style='clear:both;display:block;'>
+				  <br>
+				  </div>
+				</div>
+			  </div>
+			</div>
+
+			<div class='modal fade bd-example-modal-lg' id='exampleModal-gift3' tabindex='-1' role='dialog' aria-labelledby='exampleModalLabel' aria-hidden='true' style='margin-top:5%;'>
+			<div class='modal-dialog' role='document'>
+			  <div class='modal-content'>
+				<div class='modal-body'>
+					<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+						<span aria-hidden="true">&times;</span>
+					  </button>
+					  <p id='font_digital_2' style='font-size:24px;text-align:center;font-weight:bold;margin-top:10px;'>Gift for Bride</p>
+					  <p style='font-family: Montserrat, sans-serif; font-size:12px; letter-spacing:1px;text-align:center;margin-bottom:20px;'>
+					  Thanks for your special gift
+					  </p>
+					  	<div class='caseless' style='text-align:center;'>
+                    		<img src='gift_corner/gopay.png' style='width:70%;display:block;padding:15px;'>
+                    	</div>
+						<p style='font-family: Cormorant Infant, serif; font-size:22px; color:#474848;text-align:center;font-style: italic;'>Scan here!</p>
+						<div class='caseless' style='text-align:center;margin-top:-15px;'>
+                    		<img src='gift_corner/barcode/gopay.jpeg' style='width:70%;display:block;padding:15px;'>
+                    	</div>
+					  <p style='font-family: Cormorant Infant, serif; font-size:22px; color:#474848;text-align:center;margin-top:-15px;'>085360070310</p>
+					  <input type="text" value="085360070310" id="myInput3" hidden>
+					  <button onclick="copyToCliBoard3()" style='font-size:12px; letter-spacing:4px; font-family: Montserrat, sans-serif;background-color:#d3bdae; width:100%; color:#ffffff; padding-top:10px;padding-bottom:10px;border-radius:25px;border:0px;'>Salin Nomor Gopay</button>
+					  <script>
+						function copyToCliBoard3() {
+						var copyText = document.getElementById("myInput3");
+						copyText.select();
+						copyText.setSelectionRange(0, 99999); /* For mobile devices */
+						document.execCommand("copy");
+						alert("Berhasil disalin: " + copyText.value);
+						}
+						</script>
+					  
+				  </div>
+				  <div style='clear:both;display:block;'>
+				  <br>
+				  </div>
+				</div>
+			  </div>
+			</div>
+
+			<div class='modal fade bd-example-modal-lg' id='exampleModal-gift4' tabindex='-1' role='dialog' aria-labelledby='exampleModalLabel' aria-hidden='true' style='margin-top:5%;'>
+			<div class='modal-dialog' role='document'>
+			  <div class='modal-content'>
+				<div class='modal-body'>
+					<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+						<span aria-hidden="true">&times;</span>
+					  </button>
+					  <p id='font_digital_2' style='font-size:24px;text-align:center;font-weight:bold;margin-top:10px;'>Gift for Bride</p>
+					  <p style='font-family: Montserrat, sans-serif; font-size:12px; letter-spacing:1px;text-align:center;margin-bottom:20px;'>
+					  Thanks for your special gift
+					  </p>
+					  	<div class='caseless' style='text-align:center;'>
+                    		<img src='gift_corner/dana.png' style='width:70%;display:block;padding:15px;'>
+                    	</div>
+						<p style='font-family: Cormorant Infant, serif; font-size:22px; color:#474848;text-align:center;font-style: italic;'>Scan here!</p>
+						<div class='caseless' style='text-align:center;margin-top:-15px;'>
+                    		<img src='gift_corner/barcode/dana.jpeg' style='width:70%;display:block;padding:15px;'>
+                    	</div>
+					  <p style='font-family: Cormorant Infant, serif; font-size:22px; color:#474848;text-align:center;margin-top:-10px;'>atau</p>
+					  	<a href='https://link.dana.id/qr/hetnwr3' target='blank' style='display:block;margin-top:20px;'>
+				        <button style='font-size:12px; letter-spacing:4px; font-family: Montserrat, sans-serif;background-color:#d3bdae; width:100%; color:#ffffff; border-radius:25px;border:0px; padding:10px;'>Langsung Buka di <b>DANA</b></button>
+				    	</a>
+					  
+				  </div>
+				  <div style='clear:both;display:block;'>
+				  <br>
+				  </div>
+				</div>
+			  </div>
+			</div>
+
+			<div class='modal fade bd-example-modal-lg' id='exampleModal-gift5' tabindex='-1' role='dialog' aria-labelledby='exampleModalLabel' aria-hidden='true' style='margin-top:5%;'>
+			<div class='modal-dialog' role='document'>
+			  <div class='modal-content'>
+				<div class='modal-body'>
+					<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+						<span aria-hidden="true">&times;</span>
+					  </button>
+					  <p id='font_digital_2' style='font-size:24px;text-align:center;font-weight:bold;margin-top:10px;'>Gift for Bride</p>
+					  <p style='font-family: Montserrat, sans-serif; font-size:12px; letter-spacing:1px;text-align:center;margin-bottom:20px;'>
+					  Thanks for your special gift
+					  </p>
+					  	<div class='caseless' style='text-align:center;'>
+                    		<img src='gift_corner/ovo.png' style='width:70%;display:block;padding:15px;'>
+                    	</div>
+						<p style='font-family: Cormorant Infant, serif; font-size:22px; color:#474848;text-align:center;font-style: italic;'>Scan here!</p>
+						<div class='caseless' style='text-align:center;margin-top:-15px;'>
+                    		<img src='gift_corner/barcode/ovo.jpeg' style='width:70%;display:block;padding:15px;'>
+                    	</div>
+					  <p style='font-family: Cormorant Infant, serif; font-size:22px; color:#474848;text-align:center;margin-top:-15px;'>081264439473</p>
+					  <input type="text" value="081264439473" id="myInput4" hidden>
+					  <button onclick="copyToCliBoard4()" style='font-size:12px; letter-spacing:4px; font-family: Montserrat, sans-serif;background-color:#d3bdae; width:100%; color:#ffffff; padding-top:10px;padding-bottom:10px;border-radius:25px;border:0px;'>Salin Nomor OVO</button>
+					  <script>
+						function copyToCliBoard4() {
+						var copyText = document.getElementById("myInput4");
+						copyText.select();
+						copyText.setSelectionRange(0, 99999); /* For mobile devices */
+						document.execCommand("copy");
+						alert("Berhasil disalin: " + copyText.value);
+						}
+						</script>
+					  
+				  </div>
+				  <div style='clear:both;display:block;'>
+				  <br>
+				  </div>
+				</div>
+			  </div>
+			</div>
+
+			<div class='modal fade bd-example-modal-lg' id='exampleModal-gift' tabindex='-1' role='dialog' aria-labelledby='exampleModalLabel' aria-hidden='true' style='margin-top:5%;'>
+			<div class='modal-dialog' role='document'>
+			  <div class='modal-content'>
+				<div class='modal-body'>
+					<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+						<span aria-hidden="true">&times;</span>
+					  </button>
+					  <p id='font_digital_2' style='font-size:24px;text-align:center;font-weight:bold;margin-top:10px;'>Gift For Bride</p>
+					  <p style='font-family: Montserrat, sans-serif; font-size:12px; letter-spacing:1px;text-align:center;'>
+					  Thanks for your special gift
 						  <a href='00.asset/calendar/riniyos.ics' target='blank' style='display:block;margin-top:10px;'>
 							  <button style='font-size:12px; letter-spacing:4px; font-family: Montserrat, sans-serif;background-color:#d3bdae; width:100%; color:#ffffff; padding-top:10px;padding-bottom:10px;border-radius:25px;border:0px;'>Apple Calendar</button>
 						  </a>
