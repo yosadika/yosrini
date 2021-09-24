@@ -1058,7 +1058,7 @@
 							</div>
 							<div class='animated growIn slower' data-id='4' style='margin-top:20px;'>
 							    <div style='color:#484949; display:block; font-family: Montserrat, sans-serif; font-size:12px; letter-spacing:1px;'>
-							    We are so excited to celebrate our special day with our family and friends. Thank you so much for visiting our wedding website! Just some hours until we get married!
+							    We are so excited to celebrate our special day with our family and friends. Thank you so much for visiting our wedding website. Just some hours until we get married!
 							    </div>
 							</div>
 							
