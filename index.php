@@ -1248,7 +1248,7 @@
 													<div class='story_title' style='color:#474848;font-family: Cormorant Infant, serif; font-style:italic;'>03 Oktober 2020</div>
 													
 													<div class='story_content' style='color:#474848; margin-top:10px;font-family: Cormorant Infant, serif; font-style:italic; font-size: 18px;'>
-													Semakin mengenal satu sama lain dan membuat kami semakin dekat. Tepat ditanggal 03 Oktober 2021 kami memutuskan untuk menjadikan tanggal tersebut menjadi tanggal istimewa buat kami, dan memulai hari-hari baru bersama.
+													Semakin mengenal satu sama lain dan membuat kami semakin dekat. Tepat ditanggal 03 Oktober 2020 kami memutuskan untuk menjadikan tanggal tersebut menjadi tanggal istimewa buat kami, dan memulai hari-hari baru bersama.
 													</div>
 													
 													
@@ -1901,7 +1901,9 @@
 						alert("Berhasil disalin: " + copyText.value);
 						}
 						</script>
-					  
+					  <p style='font-family: Montserrat, sans-serif; font-size:12px; letter-spacing:1px;text-align:center;margin-top:35px;background-color:#d3bdae;color:#ffffff;padding:10px;border-radius:1px;margin-bottom:-20px;'>
+					  Saat mengirim hadiah, jangan lupa tinggalkan catatan ya! Terima kasih
+					  </p>
 				  </div>
 				  <div style='clear:both;display:block;'>
 				  <br>
@@ -1938,7 +1940,9 @@
 						alert("Berhasil disalin: " + copyText.value);
 						}
 						</script>
-					  
+					  <p style='font-family: Montserrat, sans-serif; font-size:12px; letter-spacing:1px;text-align:center;margin-top:35px;background-color:#d3bdae;color:#ffffff;padding:10px;border-radius:1px;margin-bottom:-20px;'>
+					  Saat mengirim hadiah, jangan lupa tinggalkan catatan ya! Terima kasih
+					  </p>
 				  </div>
 				  <div style='clear:both;display:block;'>
 				  <br>
@@ -1977,7 +1981,9 @@
 						alert("Berhasil disalin: " + copyText.value);
 						}
 						</script>
-					  
+					  <p style='font-family: Montserrat, sans-serif; font-size:12px; letter-spacing:1px;text-align:center;margin-top:35px;background-color:#d3bdae;color:#ffffff;padding:10px;border-radius:1px;margin-bottom:-20px;'>
+					  Saat mengirim hadiah, jangan lupa tinggalkan catatan ya! Terima kasih
+					  </p>
 				  </div>
 				  <div style='clear:both;display:block;'>
 				  <br>
@@ -2008,7 +2014,9 @@
 					  	<a href='https://link.dana.id/qr/hetnwr3' target='blank' style='display:block;margin-top:20px;'>
 				        <button style='font-size:12px; letter-spacing:4px; font-family: Montserrat, sans-serif;background-color:#d3bdae; width:100%; color:#ffffff; border-radius:25px;border:0px; padding:10px;'>Langsung Buka di <b>DANA</b></button>
 				    	</a>
-					  
+						<p style='font-family: Montserrat, sans-serif; font-size:12px; letter-spacing:1px;text-align:center;margin-top:35px;background-color:#d3bdae;color:#ffffff;padding:10px;border-radius:1px;margin-bottom:-20px;'>
+					  Saat mengirim hadiah, jangan lupa tinggalkan catatan ya! Terima kasih
+					  </p>
 				  </div>
 				  <div style='clear:both;display:block;'>
 				  <br>
@@ -2047,7 +2055,9 @@
 						alert("Berhasil disalin: " + copyText.value);
 						}
 						</script>
-					  
+					  <p style='font-family: Montserrat, sans-serif; font-size:12px; letter-spacing:1px;text-align:center;margin-top:35px;background-color:#d3bdae;color:#ffffff;padding:10px;border-radius:1px;margin-bottom:-20px;'>
+					  Saat mengirim hadiah, jangan lupa tinggalkan catatan ya! Terima kasih
+					  </p>
 				  </div>
 				  <div style='clear:both;display:block;'>
 				  <br>
